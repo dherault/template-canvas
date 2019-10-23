@@ -1,0 +1,23 @@
+{
+  "name": "template-canvas",
+  "version": "0.0.0",
+  "description": "A template for most simple canvas-based projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherault/template-canvas.git"
+  },
+  "author": "David Hérault <dherault@gmail.com> (https://github.com/dherault)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherault/template-canvas/issues"
+  },
+  "homepage": "https://github.com/dherault/template-canvas#readme",
+  "devDependencies": {
+    "eslint": "^6.5.1",
+    "eslint-config-dherault": "^1.0.3"
+  }
+}
